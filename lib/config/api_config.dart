@@ -1,0 +1,8 @@
+class HttpUrl {
+  static String companyBaseUrl = "http://10.64.101.163:5666/api";
+  static String localBaseUrl = "http://192.168.0.150:5666/api";
+  static String homeBaseUrl = "http://192.168.5.94:5666/api";
+  static String prodBaseUrl = "https://journal.uuorb.com/api";
+
+  static String baseUrl = "http://192.168.31.45:5666/api";
+}
