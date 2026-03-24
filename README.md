@@ -1,15 +1,3 @@
-## 好享记账前端
-### 视频介绍 
-https://www.bilibili.com/video/BV1WbGBzcEec
-### 如有疑问，可与我联系
-uuorb@foxmail.com
-
-
-- 项目链接
-1. 前端：https://github.com/suyu610/journal-flutter
-2. 后端：https://github.com/suyu610/journal-server
-- 视频介绍：https://www.bilibili.com/video/BV1WbGBzcEec
-- 项目体验：[AppStore](https://apps.apple.com/cn/app/%E5%A5%BD%E4%BA%AB%E8%AE%B0%E8%B4%A6/id6736673372)
 ## 项目简介
 
 `好享记账`是一个基于flutter开发的，跨端AI记账APP。实现了多人记账、语音记账、截屏快捷记账、自然语言记账等功能。
